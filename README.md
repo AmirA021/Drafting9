@@ -10,4 +10,4 @@ CNC     | _Computer numerical control_
 
 :joy:
 
-:open_mouth:
+:open_mouth: 
